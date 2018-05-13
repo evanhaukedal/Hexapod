@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hexapod</string>
+    <string name="bluetoothButton">Bluetooth</string>
+    <string name="connectedToTextView">Nothing!</string>
+    <string name="title_activity_bluetooth_configure">BluetoothConfigure</string>
+    <string name="bluetoothOn">On</string>
+    <string name="bluetoothOff">Off</string>
+    <string name="bluetoothNotSupported">Not Supported</string>
+    <string name="connectedToNoone">Nothing</string>
+</resources>
